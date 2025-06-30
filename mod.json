@@ -1,0 +1,25 @@
+{
+	"geode": "4.6.1",
+	"gd": {
+		"win": "2.2074",
+		"android": "2.2074",
+		"mac": "2.2074",
+		"ios": "2.2074"
+	},
+	"id": "silverstar.the_luckyns_mod",
+	"name": "The LuckyNS Mod",
+	"version": "v1.0.0",
+	"developer": "SILVERSTAR",
+	"description": "",
+	"resources": {
+		"sprites": [
+			"resources/images/*.png",
+			"resources/images/random/*.png",
+			"resources/images/random/*.jpg",
+			"resources/images/random/*.jpeg"
+		],
+		"files": [
+			"resources/audio/*.mp3"
+		]
+	}
+}
